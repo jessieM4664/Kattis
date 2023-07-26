@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Tests {  // Kattis - Easy : "Jumbo Javelin"
+class Tests {  // Kattis - Easy : https://open.kattis.com/problems/jumbojavelin
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
